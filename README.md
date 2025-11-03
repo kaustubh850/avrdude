@@ -1,6 +1,6 @@
 # AVRDUDE
 
-[![Build Status](https://github.com/avrdudes/avrdude/actions/workflows/build.yml/badge.svg)](https://github.com/avrdudes/avrdude/actions/workflows/build.yml)
+[![Build  Status](https://github.com/avrdudes/avrdude/actions/workflows/build.yml/badge.svg)](https://github.com/avrdudes/avrdude/actions/workflows/build.yml)
 [![Gh-pages docs](https://img.shields.io/badge/Docs-online-blue)](https://avrdudes.github.io/avrdude/)
 [![GitHub Release](https://img.shields.io/github/v/release/avrdudes/avrdude?color=yellow)](https://github.com/avrdudes/avrdude/releases)
 
